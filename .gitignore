@@ -1,3 +1,7 @@
 # Wordpress Configuration Files #
 #################################
 wp-config.php
+
+# Hosting Generated Files #
+###########################
+.ftpquota
