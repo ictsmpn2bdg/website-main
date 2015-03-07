@@ -5,3 +5,8 @@ wp-config.php
 # Hosting Generated Files #
 ###########################
 .ftpquota
+
+# Log files #
+#############
+error_log
+wp-admin/error_log
